@@ -3,3 +3,4 @@ platform :ios, '8.0'
 use_frameworks!
 
 #pod 'DCTAuth', :git => 'https://github.com/danielctull/DCTAuth.git'
+project 'ReactNativeTemplate/ios/ReactTemplate.xcodeproj/project.xcodeproj'
